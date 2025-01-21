@@ -1,12 +1,17 @@
 Hey folks! 👋 I'm Harsha Vardhan
+
 I’m an AI researcher and developer passionate about neural networks, deep learning, and computer vision. My focus is on the theoretical aspects of AI, exploring explainable AI, model robustness, and domain adaptation while applying ML models to real-world challenges.
 
 
 
 🔬 AI Research & Development
+
 NeurIPS 2024 Publication: Investigated label noise effects on deep learning models 📄
+
 Open Set Domain Adaptation for medical image analysis 🏥
+
 MultiModal Biometrics: Iris & Fingerprint Recognition System 🔐
+
 
 
 💡 AI & Software Development
@@ -18,6 +23,7 @@ Automated Data Migration Tool: Generating transformation logic with referential 
 Real-Time Video Conferencing System for seamless networking 🎥
 
 
+
 🏆 Achievements & Leadership
 
 NeurIPS 2024 Research Publication
@@ -25,6 +31,7 @@ NeurIPS 2024 Research Publication
 Organized GDSC Hackathon at IIITDM (700+ attendees)
 
 270+ LeetCode problems solved for sharpening DSA & algorithmic skills 🔢
+
 
 
 🚀 Let’s Connect!
