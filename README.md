@@ -6,7 +6,7 @@ I’m an AI researcher and developer passionate about neural networks, deep lear
 
 🔬 AI Research & Development
 
-NeurIPS 2024 Publication: Investigated label noise effects on deep learning models 📄
+SciForDL, NeurIPS 2024 Workshop Publication: Investigated label noise effects on deep learning models 📄
 
 Open Set Domain Adaptation for medical image analysis 🏥
 
@@ -26,7 +26,7 @@ Real-Time Video Conferencing System for seamless networking 🎥
 
 🏆 Achievements & Leadership
 
-NeurIPS 2024 Research Publication
+SciForDL, NeurIPS 2024 Research Publication
 
 Organized GDSC Hackathon at IIITDM (700+ attendees)
 
